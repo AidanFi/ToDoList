@@ -30,7 +30,7 @@ struct MainView: View {
                 }
                 ToolbarItem {
                     Button(action: addItem) {
-                        Label("Add Item", systemImage: "plus")
+                        Label("Add Items", systemImage: "plus")
                     }
                 }
             }
